@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0142/c/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大藏經綱目指要錄
+  edition:
+    short: c
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/C/C056/C056n1159.xml
+    old_id: C056n1159
+hash: sha256:a6ba9713860f7f4df43a66af9740efc2d72e8a279b90d2e596e710533cab9285
